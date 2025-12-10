@@ -43,4 +43,4 @@ Use any C compiler such as GCC:
 
 ## Author
 
-N Lalith
+Yaaseen shaik
